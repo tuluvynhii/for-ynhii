@@ -42,12 +42,12 @@ function resizeYesButton() {
 
 function generateMessage(noCount) {
   const messages = [
-    "No",
-    "Are you sure?",
-    "Pookie please",
-    "Don't do this to me :(",
-    "You're breaking my heart",
-    "I'm gonna cry...",
+    "Hogg",
+    "Chắc chưa :<<",
+    "Thoii iuu taoo ikk",
+    "Iuu taoo ikkk mò :3",
+    "Cmm ấn vào bên kia ikk^^",
+    "Ấn nữa t khóc á T_T",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
